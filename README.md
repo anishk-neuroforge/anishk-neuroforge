@@ -25,7 +25,9 @@ Currently diving deep into **LLMs, Transformers, and AI for Robotics** while sha
 
 ## 🎶 Now Playing  
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=312akvlckkwbapk76njvmfqgtzjm&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+  <a href="https://open.spotify.com/user/312akvlckkwbapk76njvmfqgtzjm" target="_blank" rel="noopener noreferrer">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=312akvlckkwbapk76njvmfqgtzjm&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+  </a>
 </p>  
 
 ---
