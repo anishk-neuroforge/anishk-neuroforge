@@ -40,7 +40,7 @@
 ---
 
 ## 📂 Beyond GitHub  
-- 📊 [Kaggle](https://www.kaggle.com) – AI competitions & notebooks  
+- 📊 [Kaggle](https://www.kaggle.com/neuroforge1anishk) – AI competitions & notebooks  
 - ✍️ [Medium](https://medium.com) – Writing about ML & AI concepts  
 - 🌐 Personal Blog – Coming soon 🚀  
 
