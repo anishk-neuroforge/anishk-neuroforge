@@ -49,8 +49,10 @@ Currently diving deep into **LLMs, Transformers, and AI for Robotics** while sha
 
 ---
 
+  
 ## 📬 Let’s Connect  
-[LinkedIn](www.linkedin.com/in/anishkumar-ai) | [GitHub](https://github.com/anishk-neuroforge) | [Email](anishkumardev4@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/anishkumar-ai) | [GitHub](https://github.com/anishk-neuroforge) | [Email](mailto:anishkumardev4@gmail.com)
+
 
 ---
 ⭐️ *“Always learning, always building. The journey is just beginning...”*  
