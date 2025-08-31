@@ -26,11 +26,12 @@ Currently diving deep into **LLMs, Transformers, and AI for Robotics** while sha
 ## 🎶 Now Playing  
 <p align="center">
   <a href="https://open.spotify.com/track/3CDaHBWiEN0zImuRaQOm08" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.scdn.co/image/ab67616d0000b2730145a356103fbebff83145ea" alt="Breathless by Shankar Mahadevan" width="300" />
+    <img src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e0284b507505e3be3ac47e0f79c" alt="Breathless by Shankar Mahadevan" width="300" />
     <br />
     <strong>🎵 Breathless – Shankar Mahadevan</strong>
   </a>
 </p>
+
 
  
 
