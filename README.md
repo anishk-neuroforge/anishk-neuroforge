@@ -1,72 +1,93 @@
-# 👋 Hi, I’m Anish  
-🎓 AI/ML Student @ LPU | 🚀 Exploring the Future of Artificial Intelligence  
-🧠 Passionate about Deep Learning, Robotics & Generative AI
+# ⚡ Anish Kumar — AI/ML Engineer in the Making  
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Building%20Intelligence&fontSize=40&fontColor=ffffff"/>
+</p>
 
 ---
 
-## 🔥 What I Do  
-- 🤖 Deep Learning (CNNs, GANs, Transformers)  
-- 🦾 Robotics + AI applications  
-- 🧠 LLMs & Generative AI research  
-- 📊 Data Science & Analytics  
-- ☁️ Deployment with Docker + Cloud  
+## 🧠 About Me  
+I build AI systems that learn, adapt, and scale.  
+
+🎓 AI/ML @ LPU  
+🚀 Focus: Deep Learning, LLMs, and AI Systems  
+🎯 Goal: Create high-impact AI solutions  
+
+---
+
+## 🚀 Current Focus  
+- ⚡ LLMs & Transformers (fine-tuning, prompt engineering)  
+- 🧠 End-to-end ML systems (data → model → deployment)  
+- 🦾 AI + Robotics  
+- ☁️ Docker + Cloud (MLOps mindset)  
+- 📈 Strong ML math foundations  
+
+---
+
+## 🧬 Core Skills  
+
+### 🔹 Machine Learning  
+- CNNs, RNNs, Transformers  
+- Model optimization & tuning  
+
+### 🔹 Generative AI  
+- LLMs, GANs, Diffusion  
+- AI Agents  
+
+### 🔹 Deployment  
+- FastAPI / Flask  
+- Dockerized ML systems  
 
 ---
 
 ## 🛠️ Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
----
-
-## 🎶 Now Playing  
 <p align="center">
-  <a href="https://open.spotify.com/track/3CDaHBWiEN0zImuRaQOm08" target="_blank" rel="noopener noreferrer">
-    <img src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e0284b507505e3be3ac47e0f79c" alt="Breathless by Shankar Mahadevan" width="300" />
-    <br />
-    <strong>🎵 Breathless – Shankar Mahadevan</strong>
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,docker,git,github,linux&theme=dark" />
 </p>
 
 ---
 
-## ✨ Fun Fact  
-⚡ I debug faster with lo-fi music 🎧 and coffee ☕.
+## 🧩 Projects  
+
+🚧 Coming soon (building high-impact AI projects)  
 
 ---
 
-## 📂 Beyond GitHub  
-- 📊 [Kaggle](https://www.kaggle.com/neuroforge1anishk) – AI competitions & notebooks  
-- ✍️ [Medium](https://medium.com) – Writing about ML & AI concepts  
-- 🌐 Personal Blog – Coming soon 🚀  
+## 📊 GitHub Stats  
 
----
-
-## 📬 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anishkumar-ai)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/anishk-neuroforge)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anishkumardev4@gmail.com)
-
----
-
-## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anishk-neuroforge&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anishk-neuroforge&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishk-neuroforge&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishk-neuroforge&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anishk-neuroforge&theme=github-compact" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anishk-neuroforge&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-> “Stay curious. Build relentlessly. The future is coded in imagination.”
+## 🧠 Philosophy  
+
+> Don’t just run models. Understand them. Build them. Ship them.  
+
+---
+
+## 🌍 Links  
+
+- Kaggle → https://www.kaggle.com/neuroforge1anishk  
+- LinkedIn → https://www.linkedin.com/in/anishkumar-ai  
+- GitHub → https://github.com/anishk-neuroforge  
+- Email → anishkumardev4@gmail.com  
+
+---
+
+## ⚡ Focus  
+
+- Build real systems  
+- Solve real problems  
+- Become top-tier AI engineer  
 
